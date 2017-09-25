@@ -1,0 +1,2 @@
+/* SCSS file */
+/* Here is the styling done for the CSS file */
